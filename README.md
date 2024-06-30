@@ -1,4 +1,4 @@
-# SkillsUSA2024-Gold
+# SkillsUSA2024-Winning-Entry
 
 Run the `startApp` bash script in each folder to run the app, which will be live at `http://localhost:5173`
 
